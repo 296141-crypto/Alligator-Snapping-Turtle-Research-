@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
+
+body {
+    font-family: 'Eater', cursive;
+}
+
+.swamp-bg {
+    background-color: #4a472a; /* brownish green swamp */
+}
